@@ -1,0 +1,13 @@
+body {
+  color: rgb(217, 255, 0);
+  background-color: rgb(4, 0, 255);
+}
+
+.header1 {
+  font-size: 60px;
+}
+
+.text {
+  background-color: black;
+  font-size: 30px;
+}
